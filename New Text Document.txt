@@ -1,4 +1,6 @@
 1. git init => để tạo git trên folder 
 2. git add . => chọn tất cả file thay đổi
 3. git commit -m 'first commit' => tạo messeage commit
-4. git set remote (copy trên github repo)
+4. git set remote (copy trên github repo) 
+    git remote add origin <link>
+5. git push origin master
